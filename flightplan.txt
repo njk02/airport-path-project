@@ -1,0 +1,5 @@
+4
+Austin|Greensboro|T
+Austin|Greensboro|C
+Fresno|Billings|C
+Billings|Fresno|T

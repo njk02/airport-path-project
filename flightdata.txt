@@ -1,0 +1,12 @@
+22
+Austin|Billings|499|17
+Austin|Detroit|299|15
+Billings|Detroit|450|19
+Billings|El Paso|350|12
+Detroit|Chicago|99|2
+Detroit|El Paso|280|13
+Detroit|Fresno|455|14
+El Paso|Greensboro|399|14
+Chicago|Fresno|320|16
+Chicago|Greensboro|199|11
+Fresno|Greensboro|495|13
